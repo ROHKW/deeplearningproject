@@ -1,3 +1,5 @@
+# 데이터 전처리 구현자 : 황미림 
+
 # install.packages("RMySQL")
 # install.packages("lubridate")
 # install.packages("dplyr")
